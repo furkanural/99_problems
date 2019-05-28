@@ -7,4 +7,4 @@ For run the tests:
 $ elixir problems_1_to_10.exs
 ```
 
-[![Maybe I'll find :)](https://github.com/uralfrkn/99_problems/tree/master/fogg-page-not-found.png "Maybe I'll find :)")](https://github.com/uralfrkn/99_problems/tree/master/fogg-page-not-found.png "Maybe I'll find :)")
+[![Maybe I'll find :)](https://github.com/uralfrkn/99_problems/blob/master/fogg-page-not-found.png "Maybe I'll find :)")](https://github.com/uralfrkn/99_problems/blob/master/fogg-page-not-found.png "Maybe I'll find :)")
